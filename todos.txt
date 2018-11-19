@@ -1,5 +1,6 @@
 My Todos
 ===
 -[] Get coffee
+-[] Drink coffee
 -[] Grab croissant
 -[] Eat croissant
